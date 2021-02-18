@@ -18,3 +18,4 @@ Requirement(version of this runing code):
 ## References
 <a id="1">[1]</a> 
 MacParland, S.A., Liu, J.C., Ma, XZ. et al. Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations. Nat Commun 9, 4383 (2018). https://doi.org/10.1038/s41467-018-06318-7
+Xiangjie Li, Yafei Lyu, Jihwan Park, Jingxiao Zhang, Dwight Stambolian, Katalin Susztak, Gang Hu, Mingyao Li. Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq analysis. 2019. bioRxiv 530378; doi: https://doi.org/10.1101/530378
