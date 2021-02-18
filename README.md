@@ -15,7 +15,6 @@ Requirement(version of this runing code):
 - scanpy --- 1.6.0
 - graphviz --- 2.40.1
 
-### Contents
-1. code
-2. report
-3. figure
+## References
+<a id="1">[1]</a> 
+MacParland, S.A., Liu, J.C., Ma, XZ. et al. Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations. Nat Commun 9, 4383 (2018). https://doi.org/10.1038/s41467-018-06318-7
