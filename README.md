@@ -6,12 +6,12 @@ Please see the published paper for detail information:https://www.nature.com/art
 
 Requirement(version of this runing code):
     
-desc ---  2.0.3
-python --- 3.6.12
-keras --- 2.1.0
-tensorflow --- 1.7.0
-scanpy --- 1.6.0
-graphviz --- 2.40.1
+- desc ---  2.0.3
+- python --- 3.6.12
+- keras --- 2.1.0
+- tensorflow --- 1.7.0
+- scanpy --- 1.6.0
+- graphviz --- 2.40.1
 
 ### Contents
 1. code
